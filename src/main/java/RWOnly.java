@@ -1,5 +1,5 @@
 
-public class RWonly {
+public class RWOnly {
 
 
     private String name ;
