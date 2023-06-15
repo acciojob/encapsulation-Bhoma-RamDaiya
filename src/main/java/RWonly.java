@@ -2,20 +2,20 @@
 public class RWonly {
 
 
-    private String Name ;
+    private String name ;
 
     public String getName() {
-        return Name;
+        return name;
     }
 
     public void setName(String name) {
-        Name = name;
+        this.name = name;
     }
 
     @Override
     public String toString() {
         return "RWonly{" +
-                "Name='" + Name + '\'' +
+                "name='" + name + '\'' +
                 '}';
     }
 }
