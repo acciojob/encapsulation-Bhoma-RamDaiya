@@ -1,9 +1,10 @@
 public class Main {
     public static void main(String[] args) {
-        RWOnly rWonly = new RWOnly();
+        RWOnly obj = new RWOnly();
 
-        rWonly.setName(" Bhoma Ram");
-        System.out.println(rWonly.getName());
+        obj.setName(" Bhoma Ram");
+        obj.getName();
+
 
     }
 }

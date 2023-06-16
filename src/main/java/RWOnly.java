@@ -12,10 +12,6 @@ public class RWOnly {
         this.name = name;
     }
 
-    @Override
-    public String toString() {
-        return "RWonly{" +
-                "name='" + name + '\'' +
-                '}';
+
     }
-}
+
