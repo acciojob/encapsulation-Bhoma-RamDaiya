@@ -3,8 +3,7 @@ public class Main {
         RWOnly obj = new RWOnly();
 
         obj.setName(" Bhoma Ram");
-        obj.getName();
-
+        System.out.println(obj.getName());
 
     }
 }
